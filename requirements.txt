@@ -39,7 +39,7 @@ python-openid==2.2.5
 python3-openid==3.0.4
 pytz==2019.3
 raven==4.2.1
-requests==2.2.1
+requests==2.20.0
 requests-oauthlib==0.4.0
 simplejson==3.4.1
 six==1.6.1
