@@ -27,7 +27,7 @@ djrill==1.0.0
 ecdsa==0.11
 gunicorn==18.0
 icalendar==3.6.2
-markdown2==2.2.1
+markdown2==2.3.9
 newrelic==2.18.1.15
 oauthlib==0.6.1
 paramiko==1.12.4
